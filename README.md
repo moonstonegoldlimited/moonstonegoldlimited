@@ -1,16 +1,18 @@
-## Hi there 👋
+# Moonstone Gold – UK Gold Buyers
 
-<!--
-**moonstonegoldlimited/moonstonegoldlimited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We help customers across the UK sell gold quickly and securely.
 
-Here are some ideas to get you started:
+## Sell Gold Today
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 https://moonstonegold.co.uk/sell-gold/
+
+## What We Offer
+
+- Competitive gold prices  
+- Fast payments  
+- Trusted UK service  
+
+## Learn More
+
+Use our gold calculator:
+👉 [https://moonstonegoldlimited.github.io/sell-gold-uk-toolkit/](https://moonstonegoldlimited.github.io/gold-price-calculator-uk/)
