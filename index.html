@@ -1,7 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="google-site-verification" content="epaFkJpuM_7XJoGFlg1sKBtw85h_4jLpKn_b3xsqXZU" />
   <title>Gold Price Calculator UK</title>
   <meta name="description" content="Calculate how much your gold is worth instantly using UK gold prices.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
 </head>
+
+<body style="font-family: Arial; max-width: 700px; margin: auto; padding: 20px; line-height: 1.6;">
+
+<h1>Gold Price Calculator (UK)</h1>
+
+<p>
+Use this UK gold price calculator to estimate how much your gold is worth before you sell gold in the UK.
+</p>
+
+<label>Weight (grams):</label><br>
+<input type="number" id="weight" placeholder="Enter weight"><br><br>
+
+<label>Purity:</label><br>
+<select id="purity">
+  <option value="0.375">9ct</option>
+  <option value="0.585">14ct</option>
+  <option value="0.75">18ct</option>
+  <option value="0.916">22ct</option>
+</select><br><br>
+
+<label>Gold price (£ per gram):</label><br>
+<input type="number" id="price" value="60"><br><br>
+
+<button onclick="calculate()">Calculate</button>
+
+<h2 id="result"></h2>
+
+<script>
+function calculate() {
+  let weight = document.getElementById('weight').value;
+  let purity = document.getElementById('purity').value;
+  let price = document.getElementById('price').value;
+
+  let value = weight * purity * price;
+
+  document.getElementById('result').innerText =
+    "Estimated Value: £" + value.toFixed(2);
+}
+</script>
+
+<hr>
+
+<h2>How to Sell Gold in the UK</h2>
+<p>
+Selling gold is a simple way to turn unwanted jewellery, coins, or scrap gold into cash. The amount you receive depends on weight, purity, and the current gold market price.
+</p>
+
+<p>
+In the UK, gold is commonly sold in 9ct, 14ct, 18ct, and 22ct. Higher purity gold contains more gold content and usually results in a higher payout.
+</p>
+
+<h2>What Affects Gold Value?</h2>
+<ul>
+  <li>Weight (grams)</li>
+  <li>Gold purity (carat)</li>
+  <li>Current market gold price</li>
+  <li>Buyer fees and margins</li>
+</ul>
+
+<h2>Tips Before Selling Gold</h2>
+<ul>
+  <li>Check the latest gold price</li>
+  <li>Separate items by purity</li>
+  <li>Compare different buyers</li>
+  <li>Avoid hidden fees</li>
+</ul>
+
+<h2>Learn More About Gold</h2>
+<ul>
+  <li><a href="gold-prices-uk.html">Gold Prices UK Guide</a></li>
+  <li><a href="gold-purity-guide.html">Gold Purity Guide</a></li>
+  <li><a href="where-to-sell-gold-uk.html">Where to Sell Gold UK</a></li>
+</ul>
+
+<hr>
+
+<h2>Sell Your Gold</h2>
+<p>
+If you're ready to sell gold, use a trusted UK gold buyer offering competitive rates and fast payments:
+</p>
+
+<p>
+👉 <a href="https://moonstonegold.co.uk/sell-gold/">Sell gold for cash in the UK</a>
+</p>
+
+</body>
+</html>
