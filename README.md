@@ -4,7 +4,7 @@ We help customers across the UK sell gold quickly and securely.
 
 ## Sell Gold Today
 
-👉 https://moonstonegold.co.uk/sell-gold/
+👉 [Sell Gold in the UK](https://moonstonegold.co.uk/sell-gold/)
 
 ## What We Offer
 
@@ -15,4 +15,4 @@ We help customers across the UK sell gold quickly and securely.
 ## Learn More
 
 Use our gold calculator:
-👉 [https://moonstonegoldlimited.github.io/sell-gold-uk-toolkit/](https://moonstonegoldlimited.github.io/gold-price-calculator-uk/)
+👉 [UK Gold Price Calculator](https://moonstonegoldlimited.github.io/gold-price-calculator-uk/)
