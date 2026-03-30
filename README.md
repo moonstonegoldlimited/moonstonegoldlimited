@@ -2,6 +2,10 @@
 
 We help customers across the UK sell gold quickly and securely.
 
+## Gold Price Today UK
+
+👉 [Check Live UK Gold Prices](https://moonstonegold.co.uk/gold-price-today-uk/)
+
 ## Sell Gold Today
 
 👉 [Sell Gold in the UK](https://moonstonegold.co.uk/sell-gold/)
