@@ -9,7 +9,7 @@ We help customers across the UK sell gold quickly and securely.
 ## Sell Gold Today
 
 👉 [Sell Gold in the UK](https://moonstonegold.co.uk/sell-gold/)
-👉 [Sell Gold in Wales]([https://moonstonegold.co.uk/sell-gold/])
+👉 [Sell Gold in Wales](https://moonstonegold.co.uk/sell-gold-wales/)
 
 ## What We Offer
 
